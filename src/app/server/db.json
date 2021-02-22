@@ -1,0 +1,115 @@
+{
+    "Users": [{
+            "id": 1,
+            "firstName": "anita",
+            "lastName": "muthoji",
+            "email": "anita@gmail.com",
+            "mobile": "9392992189",
+            "salary": "35000"
+        },
+        {
+            "id": 2,
+            "firstName": "sony",
+            "lastName": "m",
+            "email": "sony@gmail.com",
+            "mobile": "9333332189",
+            "salary": "45000"
+        },
+        {
+            "id": 3,
+            "firstName": "kranti",
+            "lastName": "kumar",
+            "email": "kumar@gmail.com",
+            "mobile": "8261992189",
+            "salary": "30000"
+        },
+        {
+            "id": 4,
+            "firstName": "Rita",
+            "lastName": "kumari",
+            "email": "rita@gmail.com",
+            "mobile": "7212992189",
+            "salary": "15000"
+        },
+        {
+            "id": 5,
+            "firstName": "bita",
+            "lastName": "kumari",
+            "email": "bita@gmail.com",
+            "mobile": "9912992189",
+            "salary": "15000"
+        },
+        {
+            "id": 6,
+            "firstName": "gita",
+            "lastName": "kumari",
+            "email": "gita@gmail.com",
+            "mobile": "8812992189",
+            "salary": "15000"
+        },
+        {
+            "id": 7,
+            "firstName": "nita",
+            "lastName": "kumari",
+            "email": "nita@gmail.com",
+            "mobile": "9912992189",
+            "salary": "15000"
+        },
+        {
+            "id": 8,
+            "firstName": "hita",
+            "lastName": "kumari",
+            "email": "hita@gmail.com",
+            "mobile": "9812992189",
+            "salary": "15000"
+        },
+        {
+            "id": 9,
+            "firstName": "kita",
+            "lastName": "kumari",
+            "email": "kita@gmail.com",
+            "mobile": "8812992189",
+            "salary": "15000"
+        },
+        {
+            "id": 10,
+            "firstName": "jita",
+            "lastName": "kumari",
+            "email": "jita@gmail.com",
+            "mobile": "8200992189",
+            "salary": "15000"
+        },
+        {
+            "id": 11,
+            "firstName": "lita",
+            "lastName": "kumari",
+            "email": "lita@gmail.com",
+            "mobile": "7212772189",
+            "salary": "15000"
+        },
+        {
+            "id": 12,
+            "firstName": "cita",
+            "lastName": "kumari",
+            "email": "cita@gmail.com",
+            "mobile": "7299992189",
+            "salary": "15000"
+        },
+        {
+            "id": 13,
+            "firstName": "vita",
+            "lastName": "kumari",
+            "email": "vita@gmail.com",
+            "mobile": "7213392189",
+            "salary": "15000"
+        },
+        {
+            "id": 14,
+            "firstName": "sita",
+            "lastName": "kumari",
+            "email": "sita@gmail.com",
+            "mobile": "7212994489",
+            "salary": "15000"
+        }
+    ]
+}
